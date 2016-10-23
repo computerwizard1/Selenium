@@ -1,0 +1,1 @@
+selenium is an open source  library with which uses can create automation scripts to perform testing of web applications
